@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Shazam (Red) for iPhone
+image: shazam-red
 prev: 
 next:
 ---
@@ -9,4 +10,4 @@ next:
 
 A partnership with the Red foundation for the global fight against AIDS
 
-![{{page.title}}](shazam-red.webbp "{{page.title}}")
+![{{page.title}}]({{page.image}}.webbp "{{page.title}}")
