@@ -2,7 +2,7 @@
 layout: default
 title: Your Right to Know
 publisher: Pluto Press
-images: your-right-to-know
+image: your-right-to-know
 prev: 
 next:
 ---
