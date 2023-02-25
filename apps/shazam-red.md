@@ -10,4 +10,4 @@ next:
 
 A partnership with the Red foundation for the global fight against AIDS
 
-![{{page.title}}]({{page.image}}.webbp "{{page.title}}")
+![{{page.title}}]({{page.image}}.webp "{{page.title}}")
