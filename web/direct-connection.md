@@ -5,7 +5,7 @@ prev:
 next:
 ---
 
-# {{page.title}
+# {{page.title}}
 
 Randomised intro screens for Direct Connection (in the days of Flash!)
 

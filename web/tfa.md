@@ -6,7 +6,7 @@ prev:
 next:
 ---
 
-# {{page.title}
+# {{page.title}}
 
 A fun and cheeky website for what otherwise could be a dull trade site
 

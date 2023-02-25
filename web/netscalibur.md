@@ -5,7 +5,7 @@ prev:
 next:
 ---
 
-# {{page.title}
+# {{page.title}}
 
 Screensaver for Netscalibur
 

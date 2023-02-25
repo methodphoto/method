@@ -5,7 +5,7 @@ prev:
 next:
 ---
 
-# {{page.title}
+# {{page.title}}
 
 A selection of websites I worked on in the past
 
