@@ -7,7 +7,7 @@ next:
 
 # {{page.title}}
 
-Product Design for a white label app aimed at low cost airlines. The first client was Cebu Pacific.
+Product Management, Application UX and UI Design in partnership with Microsoft and Nokia
 
 ![{{page.title}}](wp8.webp "{{page.title}}")
 
