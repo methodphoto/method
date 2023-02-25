@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Cebu Pacific
+image: cebu-pacific
 prev: 
 next:
 ---
@@ -9,4 +10,4 @@ next:
 
 Product Design for a white label app aimed at low cost airlines. The first client was Cebu Pacific.
 
-![{{page.title}}](cebu-pacific.webbp "{{page.title}}")
+![{{page.title}}]({{page.image}}.webbp "{{page.title}}")
