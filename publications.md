@@ -34,12 +34,12 @@ I have published, or been published in 4 books, 3 of which are photobooks, 2 of 
 [the-soft-edge](/method/books/the-soft-edge)
 [viroid-life](/method/books/viroid-life)
 
-[direct-connection](/method/webdirect-connection)
-[misc](/method/webmisc)
-[netscalibur](/method/webnetscalibur)
-[tfa](/method/webtfa)
-[typeahead](/method/webtypeahead)
-[what-if](/method/webwhat-if)
+[direct-connection](/method/web/direct-connection)
+[misc](/method/web/misc)
+[netscalibur](/method/web/netscalibur)
+[tfa](/method/web/tfa)
+[typeahead](/method/web/typeahead)
+[what-if](/method/web/what-if)
 
 <article class="container">
 	<div class="item right">
