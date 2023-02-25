@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ?What If!
-image: what-if
+image: whatif
 prev: 
 next:
 ---
