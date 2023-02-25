@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Shazam Home Screen
+image: shazam-home-screen
 prev: 
 next:
 ---
@@ -13,4 +14,4 @@ Users found it hard to point the microphone at the music source and tap the butt
 
 The big leap was the big Touch to Shazam button which meant it was easy to tap. Later versions allowed the app to start listening as soon as it was opened.
 
-![{{page.title}}](shazam-home-screen.webbp "{{page.title}}")
+![{{page.title}}]({{page.image}}.webp "{{page.title}}")
