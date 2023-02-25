@@ -12,4 +12,4 @@ next:
 
 A series design which encompassed The Basics, The Classics and Basic Readings sub-series
 
-![{{page.title}}](({{page.image}}.webp "{{page.title}}")
+![{{page.title}}]({{page.image}}.webp "{{page.title}}")

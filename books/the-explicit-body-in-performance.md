@@ -12,4 +12,4 @@ next:
 
 Winner Best Cover, 1998 New York Book Show
 
-![{{page.title}}](({{page.image}}.webp "{{page.title}}")
+![{{page.title}}]({{page.image}}.webp "{{page.title}}")
