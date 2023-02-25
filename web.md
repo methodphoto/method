@@ -5,7 +5,7 @@ title: Web
 
 # {{page.title}}
 
-Designing for the web since the ery early days. Currently working on web and [app](apps) design
+Designing for the web since the very early days. Currently working on web and [app](apps) design
 
 <article class="container">
 	<div class="item right">
