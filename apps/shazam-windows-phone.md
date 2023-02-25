@@ -11,4 +11,4 @@ Product Design for a white label app aimed at low cost airlines. The first clien
 
 ![{{page.title}}](wp8.webp "{{page.title}}")
 
-![{{page.title}}](wp8_screens.webbp "{{page.title}}")
+![{{page.title}}](wp8_screens.webp "{{page.title}}")
