@@ -77,6 +77,6 @@ li.p-name {
 
 .grid {
   display: grid;
-  grid-auto-flow: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
   gap: 1rem;
 }
