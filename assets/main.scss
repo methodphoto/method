@@ -62,17 +62,8 @@ li.p-name {
 	display: none;
 }
 
-.item a:hover {
+.grid a:hover {
 	opacity: 85%;
-	scale: 120%;
-}
-
-.overlay a h2 {
-	display: hidden;
-}
-
-.overlay a:hover h2 {
-	display: visible;
 }
 
 .grid {
