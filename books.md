@@ -10,16 +10,29 @@ I designed many books while working for Routledge, Cassell, Pluto Press and many
 
 <div class="grid">
    <div>
-   		<img src="/method/assets/thumbs/100-years-of-permanent-revolution.webp" width="125px" height="125px" alt="100 Years of Permanent Revolution" />
+   		<a href="books/100-years-of-permanent-revolution">
+			<img src="/method/assets/thumbs/100-years-of-permanent-revolution.webp" width="125px" height="125px" alt="100 Years of Permanent Revolution" />
+		</a>
    	</div>
    <div>
-  	 <img src="/method/assets/thumbs/ben-johnson-and-theatre.webp" width="125px" height="125px" alt="Ben johnson and the Theatre" />
+  	 <a href="books/ben-johnson-and-theatre">
+			<img src="/method/assets/thumbs/ben-johnson-and-theatre.webp" width="125px" height="125px" alt="Ben johnson and the Theatre" />
+		</a>
   	</div>
    <div>
-   		<img src="/method/assets/thumbs/homeless.webp" width="125px" height="125px" alt="Books" />
+   		<a href="books/bodyscape">
+			<img src="/method/assets/thumbs/bodyscape.webp" width="125px" height="125px" alt="Books" />
+		</a>
 	</div>
 	<div>
-		<img src="/method/assets/thumbs/bodyscape.webp" width="125px" height="125px" alt="Books" />
+		<a href="books/homeless">
+			<img src="/method/assets/thumbs/homeless.webp" width="125px" height="125px" alt="Books" />
+		</a>
+	</div>
+	<div>
+		<a href="books/digital-mcluhan">
+			<img src="/method/assets/thumbs/digital-mcluhan.webp" width="125px" height="125px" alt="Publications" />
+		</a>
 	</div>
 </div>
 
