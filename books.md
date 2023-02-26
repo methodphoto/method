@@ -18,12 +18,15 @@ I designed many books while working for Routledge, Cassell, Pluto Press and many
    <div>
    		<img src="/method/assets/thumbs/homeless.webp" width="125px" height="125px" alt="Books" />
 	</div>
+	<div>
+		<img src="/method/assets/thumbs/bodyscape.webp" width="125px" height="125px" alt="Books" />
+	</div>
 </div>
 
 
 
 
-
+<!--
 
 <article class="container">
 	<div class="item right">
@@ -130,4 +133,4 @@ I designed many books while working for Routledge, Cassell, Pluto Press and many
 </article>
 
 
-
+-->
