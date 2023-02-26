@@ -66,20 +66,11 @@ I have designed many books while working for Routledge, Cassell, Pluto Press and
 </article>
 
 <article class="container">
-
-		<div class="item right">
+	<div class="item right">
 		<a href="books/remaking-planning">
 			<img src="/method/assets/thumbs/remaking-planning.webp" width="125px" height="125px" alt="Books" />
 		</a>
 	</div>
-	<div class="item">
-		<a href="books/sexy-bodies">
-			<img src="/method/assets/thumbs/sexy-bodies.webp" width="125px" height="125px" alt="Publications" />
-		</a>
-	</div>
-</article>	
-
-<article class="container">
 		<div class="item right">
 		<a href="books/the-basics">
 			<img src="/method/assets/thumbs/the-basics.webp" width="125px" height="125px" alt="Books" />
@@ -104,6 +95,11 @@ I have designed many books while working for Routledge, Cassell, Pluto Press and
 </article>	
 
 <article class="container">
+	<div class="item">
+		<a href="books/sexy-bodies">
+			<img src="/method/assets/thumbs/sexy-bodies.webp" width="125px" height="125px" alt="Publications" />
+		</a>
+	</div>
 		<div class="item right">
 		<a href="books/viroid-life">
 			<img src="/method/assets/thumbs/viroid-life.webp" width="125px" height="125px" alt="Books" />
