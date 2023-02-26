@@ -9,12 +9,11 @@ I have designed many books while working for Routledge, Cassell, Pluto Press and
 
 <article class="container">
 	<div class="item right">
-
 ![<# alt text #>](assets/thumbs/100-years-of-permanent-revolution.webp "100-years-of-permanent-revolution.webp")
 
 </a>
 	</div>
-</aarticle>
+</article>
 
 <article class="container">
 	<div class="item right">
