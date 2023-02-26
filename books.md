@@ -11,25 +11,22 @@ I have designed many books while working for Routledge, Cassell, Pluto Press and
 <article class="container">
 	<div class="item right">
 		<a href="books/100-years-of-permanent-revolution">
-			<div class="overlay">
-				<h2>100 Years of Permanent Revolution</h2>
-			</div>
-			<img src="/method/assets/thumbs/100-years-of-permanent-revolution.webp" width="175px" height="175px" alt="100 Years of Permanent Revolution" />
+			<img src="/method/assets/thumbs/100-years-of-permanent-revolution.webp" width="125px" height="125px" alt="100 Years of Permanent Revolution" />
 		</a>
 	</div>
 	<div class="item right">
 		<a href="books/ben-johnson-and-theatre">
-			<img src="/method/assets/thumbs/ben-johnson-and-theatre.webp" width="175px" height="175px" alt="Ben johnson and the Theatre" />
+			<img src="/method/assets/thumbs/ben-johnson-and-theatre.webp" width="125px" height="125px" alt="Ben johnson and the Theatre" />
 		</a>
 	</div>
 		<div class="item right">
 		<a href="books/bodyscape">
-			<img src="/method/assets/thumbs/bodyscape.webp" width="175px" height="175px" alt="Books" />
+			<img src="/method/assets/thumbs/bodyscape.webp" width="125px" height="125px" alt="Books" />
 		</a>
 	</div>
 	<div class="item">
 		<a href="books/digital-mcluhan">
-			<img src="/method/assets/thumbs/digital-mcluhan.webp" width="175px" height="175px" alt="Publications" />
+			<img src="/method/assets/thumbs/digital-mcluhan.webp" width="125px" height="125px" alt="Publications" />
 		</a>
 	</div>
 </article>
@@ -37,22 +34,22 @@ I have designed many books while working for Routledge, Cassell, Pluto Press and
 <article class="container">
 		<div class="item right">
 		<a href="books/homeless">
-			<img src="/method/assets/thumbs/homeless.webp" width="175px" height="175px" alt="Books" />
+			<img src="/method/assets/thumbs/homeless.webp" width="125px" height="125px" alt="Books" />
 		</a>
 	</div>
 	<div class="item right">
 		<a href="books/legislative-theatre">
-			<img src="/method/assets/thumbs/legislative-theatre.webp" width="175px" height="175px" alt="Publications" />
+			<img src="/method/assets/thumbs/legislative-theatre.webp" width="125px" height="125px" alt="Publications" />
 		</a>
 	</div>
 		<div class="item right">
 		<a href="books/migrancy-culture-identity">
-			<img src="/method/assets/thumbs/migrancy-culture-identity.webp" width="175px" height="175px" alt="Books" />
+			<img src="/method/assets/thumbs/migrancy-culture-identity.webp" width="125px" height="125px" alt="Books" />
 		</a>
 	</div>
 	<div class="item">
 		<a href="books/mourning-sex">
-			<img src="/method/assets/thumbs/mourning-sex.webp" width="175px" height="175px" alt="Publications" />
+			<img src="/method/assets/thumbs/mourning-sex.webp" width="125px" height="125px" alt="Publications" />
 		</a>
 	</div>
 </article>
@@ -60,22 +57,22 @@ I have designed many books while working for Routledge, Cassell, Pluto Press and
 <article class="container">
 		<div class="item right">
 		<a href="books/performing-brecht">
-			<img src="/method/assets/thumbs/performing-brecht.webp" width="175px" height="175px" alt="Books" />
+			<img src="/method/assets/thumbs/performing-brecht.webp" width="125px" height="125px" alt="Books" />
 		</a>
 	</div>
 	<div class="item right">
 		<a href="books/redressing-the-canon">
-			<img src="/method/assets/thumbs/redressing-the-canon.webp" width="175px" height="175px" alt="Publications" />
+			<img src="/method/assets/thumbs/redressing-the-canon.webp" width="125px" height="125px" alt="Publications" />
 		</a>
 	</div>
 		<div class="item right">
 		<a href="books/remaking-planning">
-			<img src="/method/assets/thumbs/remaking-planning.webp" width="175px" height="175px" alt="Books" />
+			<img src="/method/assets/thumbs/remaking-planning.webp" width="125px" height="125px" alt="Books" />
 		</a>
 	</div>
 	<div class="item">
 		<a href="books/sexy-bodies">
-			<img src="/method/assets/thumbs/sexy-bodies.webp" width="175px" height="175px" alt="Publications" />
+			<img src="/method/assets/thumbs/sexy-bodies.webp" width="125px" height="125px" alt="Publications" />
 		</a>
 	</div>
 </article>	
@@ -83,23 +80,23 @@ I have designed many books while working for Routledge, Cassell, Pluto Press and
 <article class="container">
 		<div class="item right">
 		<a href="books/the-basics">
-			<img src="/method/assets/thumbs/the-basics.webp" width="175px" height="175px" alt="Books" />
+			<img src="/method/assets/thumbs/the-basics.webp" width="125px" height="125px" alt="Books" />
 		</a>
 	</div>
 	<div class="item right">
 		<a href="books/the-explicit-body-in-performance">
-			<img src="/method/assets/thumbs/the-explicit-body-in-performance.webp" width="175px" height="175px" alt="Publications" />
+			<img src="/method/assets/thumbs/the-explicit-body-in-performance.webp" width="125px" height="125px" alt="Publications" />
 		</a>
 	</div>
 
 		<div class="item right">
 		<a href="books/the-philosophy-of-antonio-negri">
-			<img src="/method/assets/thumbs/the-philosophy-of-antonio-negri.webp" width="175px" height="175px" alt="Books" />
+			<img src="/method/assets/thumbs/the-philosophy-of-antonio-negri.webp" width="125px" height="125px" alt="Books" />
 		</a>
 	</div>
 	<div class="item">
 		<a href="books/the-soft-edge">
-			<img src="/method/assets/thumbs/the-soft-edge.webp" width="175px" height="175px" alt="Publications" />
+			<img src="/method/assets/thumbs/the-soft-edge.webp" width="125px" height="125px" alt="Publications" />
 		</a>
 	</div>
 </article>	
@@ -107,12 +104,12 @@ I have designed many books while working for Routledge, Cassell, Pluto Press and
 <article class="container">
 		<div class="item right">
 		<a href="books/viroid-life">
-			<img src="/method/assets/thumbs/viroid-life.webp" width="175px" height="175px" alt="Books" />
+			<img src="/method/assets/thumbs/viroid-life.webp" width="125px" height="125px" alt="Books" />
 		</a>
 	</div>
 	<div class="item">
 		<a href="books/your-right-to-know">
-			<img src="/method/assets/thumbs/your-right-to-know.webp" width="175px" height="175px" alt="Publications" />
+			<img src="/method/assets/thumbs/your-right-to-know.webp" width="125px" height="125px" alt="Publications" />
 		</a>
 	</div>
 </article>
