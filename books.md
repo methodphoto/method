@@ -9,6 +9,15 @@ I have designed many books while working for Routledge, Cassell, Pluto Press and
 
 <article class="container">
 	<div class="item right">
+
+![<# alt text #>](assets/thumbs/100-years-of-permanent-revolution.webp "100-years-of-permanent-revolution.webp")
+
+</a>
+	</div>
+</aarticle>
+
+<article class="container">
+	<div class="item right">
 		<a href="books/100-years-of-permanent-revolution">
 			<img src="/method/assets/thumbs/100-years-of-permanent-revolution.webp width="350px" height="350px" alt="100 Years of Permanent Revolution" />
 		</a>
