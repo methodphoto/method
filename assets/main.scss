@@ -64,12 +64,13 @@ li.p-name {
 
 .item a:hover {
 	opacity: 85%;
+	scale: 120%;
 }
 
-a.overlay {
+.overlay a h2 {
 	display: hidden;
 }
 
-a:hover.overlay {
+.overlay a:hover h2 {
 	display: visible;
 }
