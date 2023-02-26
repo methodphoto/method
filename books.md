@@ -24,6 +24,11 @@ I have designed many books while working for Routledge, Cassell, Pluto Press and
 			<img src="/method/assets/thumbs/bodyscape.webp" width="125px" height="125px" alt="Books" />
 		</a>
 	</div>
+	<div class="item right">
+		<a href="books/homeless">
+			<img src="/method/assets/thumbs/homeless.webp" width="125px" height="125px" alt="Books" />
+		</a>
+	</div>
 	<div class="item">
 		<a href="books/digital-mcluhan">
 			<img src="/method/assets/thumbs/digital-mcluhan.webp" width="125px" height="125px" alt="Publications" />
@@ -32,11 +37,7 @@ I have designed many books while working for Routledge, Cassell, Pluto Press and
 </article>
 
 <article class="container">
-		<div class="item right">
-		<a href="books/homeless">
-			<img src="/method/assets/thumbs/homeless.webp" width="125px" height="125px" alt="Books" />
-		</a>
-	</div>
+
 	<div class="item right">
 		<a href="books/legislative-theatre">
 			<img src="/method/assets/thumbs/legislative-theatre.webp" width="125px" height="125px" alt="Publications" />
@@ -47,15 +48,7 @@ I have designed many books while working for Routledge, Cassell, Pluto Press and
 			<img src="/method/assets/thumbs/migrancy-culture-identity.webp" width="125px" height="125px" alt="Books" />
 		</a>
 	</div>
-	<div class="item">
-		<a href="books/mourning-sex">
-			<img src="/method/assets/thumbs/mourning-sex.webp" width="125px" height="125px" alt="Publications" />
-		</a>
-	</div>
-</article>
-
-<article class="container">
-		<div class="item right">
+	<div class="item right">
 		<a href="books/performing-brecht">
 			<img src="/method/assets/thumbs/performing-brecht.webp" width="125px" height="125px" alt="Books" />
 		</a>
@@ -65,6 +58,15 @@ I have designed many books while working for Routledge, Cassell, Pluto Press and
 			<img src="/method/assets/thumbs/redressing-the-canon.webp" width="125px" height="125px" alt="Publications" />
 		</a>
 	</div>
+	<div class="item">
+		<a href="books/mourning-sex">
+			<img src="/method/assets/thumbs/mourning-sex.webp" width="125px" height="125px" alt="Publications" />
+		</a>
+	</div>
+</article>
+
+<article class="container">
+
 		<div class="item right">
 		<a href="books/remaking-planning">
 			<img src="/method/assets/thumbs/remaking-planning.webp" width="125px" height="125px" alt="Books" />
