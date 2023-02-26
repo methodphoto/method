@@ -5,7 +5,24 @@ title: Books
 
 # {{page.title}}
 
-I have designed many books while working for Routledge, Cassell, Pluto Press and many others. Here is a selection.
+I designed many books while working for Routledge, Cassell, Pluto Press and many others in a freelance capacity. Here is a selection.
+
+
+<div class="grid">
+   <div>
+   		<img src="/method/assets/thumbs/100-years-of-permanent-revolution.webp" width="125px" height="125px" alt="100 Years of Permanent Revolution" />
+   	</div>
+   <div>
+  	 <img src="/method/assets/thumbs/ben-johnson-and-theatre.webp" width="125px" height="125px" alt="Ben johnson and the Theatre" />
+  	</div>
+   <div>
+   		<img src="/method/assets/thumbs/homeless.webp" width="125px" height="125px" alt="Books" />
+	</div>
+</div>
+
+
+
+
 
 
 <article class="container">
