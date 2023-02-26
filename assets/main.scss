@@ -65,3 +65,11 @@ li.p-name {
 .item a:hover {
 	opacity: 85%;
 }
+
+a.overlay {
+	display: none;
+}
+
+a:hover.overlay {
+	display: inline;
+}

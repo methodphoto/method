@@ -11,6 +11,9 @@ I have designed many books while working for Routledge, Cassell, Pluto Press and
 <article class="container">
 	<div class="item right">
 		<a href="books/100-years-of-permanent-revolution">
+			<div class="overlay">
+				<h2>100 Years of Permanent Revolution</h2>
+			</div>
 			<img src="/method/assets/thumbs/100-years-of-permanent-revolution.webp" width="350px" height="350px" alt="100 Years of Permanent Revolution" />
 		</a>
 	</div>
@@ -73,7 +76,6 @@ I have designed many books while working for Routledge, Cassell, Pluto Press and
 	</div>
 </article>
 
-
 <article class="container">
 		<div class="item right">
 		<a href="books/remaking-planning">
@@ -87,7 +89,7 @@ I have designed many books while working for Routledge, Cassell, Pluto Press and
 	</div>
 </article>	
 
-</article><article class="container">
+<article class="container">
 		<div class="item right">
 		<a href="books/the-basics">
 			<img src="/method/assets/thumbs/the-basics.webp" width="350px" height="350px" alt="Books" />
@@ -100,7 +102,7 @@ I have designed many books while working for Routledge, Cassell, Pluto Press and
 	</div>
 </article>	
 
-</article><article class="container">
+<article class="container">
 		<div class="item right">
 		<a href="books/the-philosophy-of-antonio-negri">
 			<img src="/method/assets/thumbs/the-philosophy-of-antonio-negri.webp" width="350px" height="350px" alt="Books" />
@@ -113,7 +115,8 @@ I have designed many books while working for Routledge, Cassell, Pluto Press and
 	</div>
 </article>	
 
-</article><article class="container">
+
+<article class="container">
 		<div class="item right">
 		<a href="books/viroid-life">
 			<img src="/method/assets/thumbs/viroid-life.webp" width="350px" height="350px" alt="Books" />
