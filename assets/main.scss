@@ -15,11 +15,6 @@ body {
 	font-size: 110%;
 }
 
-.site-header {
-	margin-top: 10px;
-	border: none;
-}
-
 h1 {
 	font-weight: 300;
 }
@@ -30,6 +25,11 @@ article {
 
 .container {
 	margin-bottom: 30px;
+}
+
+.site-header {
+	margin-top: 15px;
+	border: none;
 }
 
 .item {display: inline;}
@@ -60,4 +60,8 @@ a:hover.page-link {
 
 li.p-name {
 	display: none;
+}
+
+.item a:hover {
+	opacity: 85%;
 }
