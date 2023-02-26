@@ -67,9 +67,9 @@ li.p-name {
 }
 
 a.overlay {
-	display: none;
+	display: hidden;
 }
 
 a:hover.overlay {
-	display: inline;
+	display: visible;
 }
