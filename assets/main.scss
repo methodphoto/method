@@ -77,15 +77,14 @@ li.p-name {
 
 .grid {
   display: grid;
-  grid-auto-flow: 1fr 1fr 1fr;
-  gap: 1rem;
+  gap: 0.5rem;
+  grid-template-columns: repeat(auto-fit, minmax(125px, 1fr));
 }
 
 .grid img {
 	height: 125px;
 	width: 125px;
 }
-
 
 @media screen and (max-width: 430px) {
 	.grid img {
