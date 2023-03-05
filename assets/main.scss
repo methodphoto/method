@@ -13,8 +13,6 @@ body {
 	font-family: myriad-pro-1, myriad-pro-2,sans-serif;
 	margin: 0 2em;
 	font-size: 110%;
-	margin-left: 16px;
-	margin-right: 16px;
 }
 
 h1 {
@@ -64,16 +62,33 @@ li.p-name {
 	display: none;
 }
 
-.grid a:hover {
+.item a:hover {
 	opacity: 85%;
+	scale: 120%;
+}
+
+.overlay a h2 {
+	display: hidden;
+}
+
+.overlay a:hover h2 {
+	display: visible;
 }
 
 .grid {
   display: grid;
+  grid-auto-flow: 1fr 1fr 1fr;
   gap: 1rem;
-  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
 }
 
-.grid > div {
-  height: 125px;
+.grid img {
+	height: 125px;
+	width: 125px;
 }
+
+
+@media screen and (max-width: 430px) {
+	.grid img {
+		height: 100px;
+		width: 100px;
+	}
