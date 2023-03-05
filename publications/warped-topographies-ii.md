@@ -8,6 +8,6 @@ next:
 ---
 
 # {{page.title}}<br />
-*{{page.publisher}}*
+[*{{page.publisher}}*](https://method.photo/books/warped-topographies-ii)
 
 ![{{page.title}}]({{page.image}}.webp "{{page.title}}")

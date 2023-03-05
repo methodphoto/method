@@ -8,6 +8,6 @@ next:
 ---
 
 # {{page.title}}<br />
-*{{page.publisher}}*
+[*{{page.publisher}}*](https://www.kozubooks.com/books-new/richard-earney-warped-topographies)
 
 ![{{page.title}}]({{page.image}}.webp "{{page.title}}")
