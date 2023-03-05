@@ -2,14 +2,14 @@
 layout: default
 title: Shazam Windows 8
 prev: 
-next: shazam-windows-8-mytags
+next: shazam-windows-phone
 ---
 
 # {{page.title}}
 
 Product Management, Application UX and UI Design in partnership with Microsoft and Nokia
 
-![{{page.title}}](shazam-win-8.webp "{{page.title}}")
+[![{{page.title}}](shazam-win-8.webp "{{page.title}}")]({{page.next}})
 
 ![My Tags screen](shazam-win-8-mytags.webp "My Tags screen")
 

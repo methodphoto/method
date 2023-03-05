@@ -14,4 +14,4 @@ Users found it hard to point the microphone at the music source and tap the butt
 
 The big leap was the big Touch to Shazam button which meant it was easy to tap. Later versions allowed the app to start listening as soon as it was opened.
 
-![{{page.title}}]({{page.image}}.webp "{{page.title}}")
+[![{{page.title}}]({{page.image}}.webp "{{page.title}}")]({{page.next}})
