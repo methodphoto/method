@@ -17,3 +17,5 @@ Shazam was advertised by Apple in three different ads, in several languages and 
 
 <video src="shazam-japan.mp4" width="100%" controls></video>
 
+[next >>]({{page.next}})
+
