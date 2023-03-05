@@ -54,11 +54,6 @@ I've been fortunate enough to design one of the top apps of all time, Shazam; as
 		</a>
 	</div>
 	<div>
-		<a href="apps/shazam-win-8-mytags">
-			<img src="/method/assets/thumbs/shazam-win-8-mytags.webp" alt="Shazam Win-8 My Tags" />
-		</a>
-	</div>
-	<div>
 		<a href="apps/wp8">
 			<img src="/method/assets/thumbs/wp8.webp" alt="Windows Phone 8" title="Windows Phone 8" />
 		</a>

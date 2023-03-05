@@ -15,7 +15,7 @@ If you're interested in using any of our services, please contact us below.
 <article class="container">
 	<div class="item right">
 		<a href="apps">
-			<img src="/method/assets/thumbs/shazam.webp" width="350px" height="350px" alt="Shazam" />
+			<img src="/method/assets/thumbs/shazam.webp" width="350px" height="350px" alt="Apps" />
 		</a>
 	</div>
 	<div class="item rightimage">

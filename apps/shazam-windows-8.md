@@ -2,7 +2,7 @@
 layout: default
 title: Shazam Windows 8
 prev: 
-next:
+next: shazam-windows-8-mytags
 ---
 
 # {{page.title}}

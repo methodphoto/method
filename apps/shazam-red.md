@@ -3,7 +3,7 @@ layout: default
 title: Shazam (Red) for iPhone
 image: shazam-red
 prev: 
-next:
+next: shazam-tron
 ---
 
 # {{page.title}}

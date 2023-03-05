@@ -5,7 +5,7 @@ title: Books
 
 # {{page.title}}
 
-I designed many books while working for Routledge, Cassell, Pluto Press and many others in a freelance capacity. Here is a selection.
+I designed many book covers while working for Routledge, Cassell, Pluto Press and many others in a freelance capacity. Here is a selection.
 
 
 <div class="grid">

@@ -2,7 +2,7 @@
 layout: default
 title: Shazam Adverts
 prev: 
-next:
+next: shazam-home-screen
 ---
 
 # {{page.title}}

@@ -3,7 +3,7 @@ layout: default
 title: Cinime Watch App
 image: cinime-watch-app
 prev: 
-next: cinime-watch-app
+next: shazam-adverts
 ---
 
 # {{page.title}}

@@ -3,7 +3,7 @@ layout: default
 title: Shazam Listening Screen
 image: shazam-listening-screen
 prev: 
-next:
+next: shazam-red
 ---
 
 # {{page.title}}

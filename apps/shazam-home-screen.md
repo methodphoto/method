@@ -3,7 +3,7 @@ layout: default
 title: Shazam Home Screen
 image: shazam-home-screen
 prev: 
-next:
+next: shazam-listening-screen
 ---
 
 # {{page.title}}
