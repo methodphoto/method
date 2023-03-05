@@ -9,22 +9,22 @@ I have published, or been published in 4 books, 3 of which are photobooks, 2 of 
 
 <div class="grid">
    <div>
-   		<a href="publications/typeahead">
+   		<a href="publications/the-prismatic-pond">
 			<img src="/method/assets/thumbs/the-prismatic-pond.webp" alt="The Prismatic Pond" />
 		</a>
    	</div>
    <div>
-  	 <a href="publications/direct-connection">
+  	 <a href="publications/warped-topographies-ii">
 			<img src="/method/assets/thumbs/warped-topographies-ii.webp" alt="Warped Topographies II" />
 		</a>
   	</div>
    <div>
-   		<a href="publications/tfa">
+   		<a href="publications/warped-topographies">
 			<img src="/method/assets/thumbs/warped-topographies.webp" alt="Warped Topographies" />
 		</a>
 	</div>
 	<div>
-		<a href="publications/what-if">
+		<a href="publications/inside-lightroom">
 			<img src="/method/assets/thumbs/inside-lightroom.webp" alt="Inside Lightroom" />
 		</a>
 	</div>

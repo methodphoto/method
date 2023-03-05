@@ -6,7 +6,6 @@ image: warped-topographies
 prev: 
 next:
 ---
----
 
 # {{page.title}}<br />
 *{{page.publisher}}*
