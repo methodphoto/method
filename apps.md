@@ -10,42 +10,42 @@ I've been fortunate enough to design one of the top apps of all time, Shazam; as
 <div class="grid">
    <div>
    		<a href="apps/cebu-pacific">
-			<img src="/method/assets/thumbs/cebu-pacific.webp" alt="Cebu Pacific" />
+			<img src="/method/assets/thumbs/cebu-pacific.webp" alt="Cebu Pacific" title="Cebu Pacific" />
 		</a>
    	</div>
    <div>
   	 <a href="apps/cinime-watch-app">
-			<img src="/method/assets/thumbs/cinime-watch-app.webp" alt="Cinime Watch App" />
+			<img src="/method/assets/thumbs/cinime-watch-app.webp" alt="Cinime Watch App" title="Cinime Watch App" />
 		</a>
   	</div>
    <div>
    		<a href="apps/shazam-adverts">
-			<img src="/method/assets/thumbs/shazam-adverts.webp" alt="Shazam Adverts" />
+			<img src="/method/assets/thumbs/shazam-adverts.webp" alt="Shazam Adverts" title="Shazam Adverts" />
 		</a>
 	</div>
 	<div>
 		<a href="apps/shazam-home-screen">
-			<img src="/method/assets/thumbs/shazam-home-screen.webp" alt="Shazam Home Screen" />
+			<img src="/method/assets/thumbs/shazam-home-screen.webp" alt="Shazam Home Screen" title="Shazam Home Screen" />
 		</a>
 	</div>
 	<div>
 		<a href="apps/shazam-listening-screen">
-			<img src="/method/assets/thumbs/shazam-listening-screen.webp" alt="Shazam Listening Screen" />
+			<img src="/method/assets/thumbs/shazam-listening-screen.webp" alt="Shazam Listening Screen" title="Shazam Listening Screen" />
 		</a>
 	</div>
 	<div>
 		<a href="apps/shazam-red">
-			<img src="/method/assets/thumbs/shazam-red.webp" alt="Shazam Red" />
+			<img src="/method/assets/thumbs/shazam-red.webp" alt="Shazam Red" title="Shazam Red" />
 		</a>
 	</div>
 		<div>
 		<a href="apps/shazam-tron">
-			<img src="/method/assets/thumbs/shazam-tron.webp" alt="Shazam Tron" />
+			<img src="/method/assets/thumbs/shazam-tron.webp" alt="Shazam Tron" title="Shazam Tron" />
 		</a>
 	</div>
 	<div>
 		<a href="apps/shazam-win-8">
-			<img src="/method/assets/thumbs/shazam-win-8.webp" alt="Shazam Windows 8" />
+			<img src="/method/assets/thumbs/shazam-win-8.webp" alt="Shazam Windows 8" title="Shazam Windows 8" />
 		</a>
 	</div>
 	<div>
@@ -55,12 +55,12 @@ I've been fortunate enough to design one of the top apps of all time, Shazam; as
 	</div>
 	<div>
 		<a href="apps/wp8">
-			<img src="/method/assets/thumbs/wp8.webp" alt="Windows Phone 8" />
+			<img src="/method/assets/thumbs/wp8.webp" alt="Windows Phone 8" title="Windows Phone 8" />
 		</a>
 	</div>
 	<div>
 		<a href="apps/wp8_screens">
-			<img src="/method/assets/thumbs/wp8_screens.webp" alt="Windows Phone 8" />
+			<img src="/method/assets/thumbs/wp8_screens.webp" alt="Windows Phone 8" title="Windows Phone 8" />
 		</a>
 	</div>
 </div>
