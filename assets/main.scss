@@ -86,7 +86,13 @@ li.p-name {
 	width: 125px;
 }
 
-@media screen and (max-width: 430px) {
+@media screen and (max-width: 600px) {
+	.grid {
+		display: grid;
+		gap: 0.5rem;
+		grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+	}
+
 	.grid img {
 		height: 100px;
 		width: 100px;
