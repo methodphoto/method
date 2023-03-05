@@ -10,4 +10,4 @@ next: shazam-adverts
 
 A very early Watch Kit app for Cinime
 
-[![{{page.title}}]({{page.image}}.webp "{{page.title}}")](({{page.next}}))
+[![{{page.title}}]({{page.image}}.webp "{{page.title}}")]({{page.next}})
