@@ -5,9 +5,14 @@ title: Apps
 
 # {{page.title}}
 
-I've been fortunate enough to design one of the top apps of all time, Shazam; as well as 
+I've been fortunate enough to design one of the top apps of all time, Shazam; as well as designing a white label app for low cost airlines, apps for traders and cinema goers
 
 <div class="grid">
+   <div>
+   		<a href="apps/local-heroes-toolbox">
+			<img src="/method/assets/thumbs/local-heroes-toolbox.webp" alt="Local Heroes - Toolbox" title="Local Heroes - Toolbox" />
+		</a>
+   	</div>
    <div>
    		<a href="apps/cebu-pacific">
 			<img src="/method/assets/thumbs/cebu-pacific.webp" alt="Cebu Pacific" title="Cebu Pacific" />

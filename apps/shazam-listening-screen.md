@@ -8,6 +8,6 @@ next:
 
 # {{page.title}}
 
-Product Design for a white label app aimed at low cost airlines. The first client was Cebu Pacific.
+The evolution of the listening screen. As the listening technology improved I revised the design of this screen to make it more useful to the user as well as reflecting the audio that was being sampled.
 
 ![{{page.title}}]({{page.image}}.webp "{{page.title}}")
