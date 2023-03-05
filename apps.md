@@ -49,7 +49,7 @@ I've been fortunate enough to design one of the top apps of all time, Shazam; as
 		</a>
 	</div>
 	<div>
-		<a href="apps/shazam-win-8">
+		<a href="apps/shazam-windows-8">
 			<img src="/method/assets/thumbs/shazam-win-8.webp" alt="Shazam Windows 8" title="Shazam Windows 8" />
 		</a>
 	</div>
