@@ -2,7 +2,7 @@
 layout: default
 title: Various Websites
 prev: 
-next:
+next: typeahead
 ---
 
 # {{page.title}}
@@ -26,3 +26,5 @@ A selection of websites I worked on in the past
 ![Holly Warburton](holly.webp "Holly Warburton")
 
 ![Exonetric](holly.webp "Exonetric")
+
+[next >>]({{page.next}})

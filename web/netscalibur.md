@@ -2,7 +2,7 @@
 layout: default
 title: Netscalibur
 prev: 
-next:
+next: misc
 ---
 
 # {{page.title}}
@@ -10,3 +10,5 @@ next:
 Screensaver for Netscalibur
 
 <video src="netscalibur.mp4" controls></video>
+
+[next >>]({{page.next}})

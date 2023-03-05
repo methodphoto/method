@@ -4,7 +4,7 @@ title: The Explicit Body in Performance
 publisher: Routledge
 image: the-explicit-body-in-performance
 prev: 
-next:
+next: the-philosophy-of-antonio-negri
 ---
 
 # {{page.title}}<br />
@@ -12,4 +12,4 @@ next:
 
 Winner Best Cover, 1998 New York Book Show
 
-![{{page.title}}]({{page.image}}.webp "{{page.title}}")
+[![{{page.title}}]({{page.image}}.webp "{{page.title}}")]({{page.next}})

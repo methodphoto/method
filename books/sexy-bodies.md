@@ -4,10 +4,10 @@ title: Sexy Bodies
 publisher: Routledge
 image: sexy-bodies
 prev: 
-next:
+next: viroid-life
 ---
 
 # {{page.title}}<br />
 *{{page.publisher}}*
 
-![{{page.title}}]({{page.image}}.webp "{{page.title}}")
+[![{{page.title}}]({{page.image}}.webp "{{page.title}}")]({{page.next}})

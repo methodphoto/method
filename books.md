@@ -30,6 +30,11 @@ I designed many book covers while working for Routledge, Cassell, Pluto Press an
 		</a>
 	</div>
 	<div>
+		<a href="books/the-soft-edge">
+			<img src="/method/assets/thumbs/the-soft-edge.webp" alt="The Soft Edge" title="The Soft Edge" />
+		</a>
+	</div>
+	<div>
 		<a href="books/digital-mcluhan">
 			<img src="/method/assets/thumbs/digital-mcluhan.webp" alt="Digital McLuhan" title="Digital McLuhan" />
 		</a>
@@ -78,11 +83,6 @@ I designed many book covers while working for Routledge, Cassell, Pluto Press an
 		<div>
 		<a href="books/the-philosophy-of-antonio-negri">
 			<img src="/method/assets/thumbs/the-philosophy-of-antonio-negri.webp" alt="The Philosophy of Antonio Negri" title="The Philosophy of Antonio Negri" />
-		</a>
-	</div>
-	<div>
-		<a href="books/the-soft-edge">
-			<img src="/method/assets/thumbs/the-soft-edge.webp" alt="The Soft Edge" title="The Soft Edge" />
 		</a>
 	</div>
 	<div>

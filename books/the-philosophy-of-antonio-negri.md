@@ -4,10 +4,10 @@ title: The Philosophy of Antoinio Negri
 image: the-philosophy-of-antonio-negri
 publisher: Pluto Press
 prev: 
-next:
+next: sexy-bodies
 ---
 
 # {{page.title}}<br />
 *{{page.publisher}}*
 
-![{{page.title}}]({{page.image}}.webp "{{page.title}}")
+[![{{page.title}}]({{page.image}}.webp "{{page.title}}")]({{page.next}})
