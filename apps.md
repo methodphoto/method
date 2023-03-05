@@ -54,7 +54,7 @@ I've been fortunate enough to design one of the top apps of all time, Shazam; as
 		</a>
 	</div>
 	<div>
-		<a href="apps/wp8">
+		<a href="apps/windows-phone-8">
 			<img src="/method/assets/thumbs/wp8.webp" alt="Windows Phone 8" title="Windows Phone 8" />
 		</a>
 	</div>
