@@ -9,6 +9,6 @@ next: misc
 
 Screensaver for Netscalibur
 
-<video src="netscalibur.mp4" controls></video>
+<video src="netscalibur.mp4" width="100%" controls></video>
 
 [next >>]({{page.next}})
