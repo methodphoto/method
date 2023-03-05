@@ -3,7 +3,7 @@ layout: default
 title: Cebu Pacific
 image: cebu-pacific
 prev: 
-next:
+next: cinime-watch-app
 ---
 
 # {{page.title}}
