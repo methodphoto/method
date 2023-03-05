@@ -2,7 +2,7 @@
 layout: default
 title: Shazam Tron
 prev: 
-next:
+next: shazam-web-8
 ---
 
 # {{page.title}}
