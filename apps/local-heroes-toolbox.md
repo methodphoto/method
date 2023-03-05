@@ -3,7 +3,7 @@ layout: default
 title: Local Heroes Toolbox
 image: local-heroes-toolbox
 prev: 
-next:
+next: cebu-pacific
 ---
 
 # {{page.title}}
