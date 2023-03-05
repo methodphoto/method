@@ -8,4 +8,6 @@ next:
 
 # {{page.title}}
 
+A websie for an innovation company
+
 ![{{page.title}}]({{page.image}}.webp "{{page.title}}")
