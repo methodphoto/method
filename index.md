@@ -15,12 +15,12 @@ If you're interested in using any of our services, please contact us below.
 <article class="container">
 	<div class="item right">
 		<a href="apps">
-			<img src="/method/assets/thumbs/shazam.webp" width="350px" height="350px" alt="Apps" />
+			<img src="assets/thumbs/shazam.webp" width="350px" height="350px" alt="Apps" />
 		</a>
 	</div>
 	<div class="item rightimage">
 		<a href="web">
-			<img src="/method/assets/thumbs/web.webp" width="350px" height="350px" alt="Web" />
+			<img src="assets/thumbs/web.webp" width="350px" height="350px" alt="Web" />
 		</a>
 	</div>
 </article>	
@@ -28,12 +28,12 @@ If you're interested in using any of our services, please contact us below.
 <article class="container">
 		<div class="item right">
 		<a href="books">
-			<img src="/method/assets/thumbs/performing-brecht.webp" width="350px" height="350px" alt="Books" />
+			<img src="assets/thumbs/performing-brecht.webp" width="350px" height="350px" alt="Books" />
 		</a>
 	</div>
 	<div class="item">
 		<a href="publications">
-			<img src="/method/assets/thumbs/publications.webp" width="350px" height="350px" alt="Publications" />
+			<img src="assets/thumbs/publications.webp" width="350px" height="350px" alt="Publications" />
 		</a>
 	</div>
 </article>
