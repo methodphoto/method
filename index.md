@@ -12,28 +12,26 @@ If you're interested in using any of our services, please contact us below.
 
 ## Spotlight
 
-<article class="container">
-	<div class="item right">
-		<a href="apps">
-			<img src="assets/thumbs/shazam.webp" width="350px" height="350px" alt="Apps" />
-		</a>
-	</div>
-	<div class="item rightimage">
-		<a href="web">
-			<img src="assets/thumbs/web.webp" width="350px" height="350px" alt="Web" />
-		</a>
-	</div>
-</article>	
 
-<article class="container">
-		<div class="item right">
-		<a href="books">
-			<img src="assets/thumbs/performing-brecht.webp" width="350px" height="350px" alt="Books" />
+<div class="grid">
+   <div>
+   		<a href="apps">
+			<img src="assets/thumbs/shazam.webp"  width="350px" height="350px" alt="Apps" title="Apps" />
+		</a>
+   	</div>
+   <div>
+   		<a href="web">
+			<img src="assets/thumbs/web.webp" width="350px" height="350px" alt="Web" title="Web" />
+		</a>
+   	</div>
+   <div>
+  	 <a href="books">
+			<img src="assets/thumbs/performing-brecht.webp" width="350px" height="350px" alt="Book Covers" title="Book Covers" />
+		</a>
+  	</div>
+   <div>
+   		<a href="publications">
+			<img src="assets/thumbs/publications.webp" width="350px" height="350px" alt="Publications" title="Publications" />
 		</a>
 	</div>
-	<div class="item">
-		<a href="publications">
-			<img src="assets/thumbs/publications.webp" width="350px" height="350px" alt="Publications" />
-		</a>
-	</div>
-</article>
+</div>
