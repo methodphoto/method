@@ -13,7 +13,7 @@ If you're interested in using any of our services, please contact us below.
 ## Spotlight
 
 
-<div class="grid" <style="margin-bottom:20px;">
+<div class="grid" style="margin-bottom:20px;">
    <div>
    		<a href="apps">
 			<img src="assets/thumbs/shazam.webp"  width="400px" height="400px" alt="Apps" title="Apps" />
