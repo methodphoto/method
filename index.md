@@ -24,6 +24,8 @@ If you're interested in using any of our services, please contact us below.
 			<img src="assets/thumbs/web.webp" width="350px" height="350px" alt="Web" title="Web" />
 		</a>
    	</div>
+</div>
+<div class="grid">
    <div>
   	 <a href="books">
 			<img src="assets/thumbs/performing-brecht.webp" width="350px" height="350px" alt="Book Covers" title="Book Covers" />
