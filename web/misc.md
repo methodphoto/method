@@ -25,6 +25,6 @@ A selection of websites I worked on in the past
 
 ![Holly Warburton](holly.webp "Holly Warburton")
 
-![Exonetric](holly.webp "Exonetric")
+![Exonetric](exonetric.webp "Exonetric")
 
 [next >>]({{page.next}})
