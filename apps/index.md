@@ -9,6 +9,11 @@ I've been fortunate enough to design one of the top apps of all time, Shazam; as
 
 <div class="grid">
    <div>
+   		<a href="hive-heating-control">
+			<img src="hive-heating-control-thumb.webp" alt="Hive Heating Control" title="Hive Heating Control" />
+		</a>
+   	</div>
+   <div>
    		<a href="local-heroes-toolbox">
 			<img src="local-heroes-toolbox-thumb.webp" alt="Local Heroes - Toolbox" title="Local Heroes - Toolbox" />
 		</a>
