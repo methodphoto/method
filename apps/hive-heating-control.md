@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hive heating Control
+title: Hive Heating Control Screen
 image: hive-heating-control
 prev: 
 next: local-heroes-toolbox
