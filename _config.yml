@@ -6,5 +6,4 @@ url: "https://method.co.uk" # the base hostname & protocol for your site, e.g. h
 heading_anchors: false
 minima:
   social_links:
-    - { platform: mastadon, user_url: "https://toot.community/@methodphoto" }
     - { platform: instagram,  user_url: "https://instagram.com/methodphotonew" }
